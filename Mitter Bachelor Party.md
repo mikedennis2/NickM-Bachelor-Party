@@ -53,7 +53,7 @@
 - Depart hotel for Dinner by 4:45pm
 
 ### Dinner plans
-- Charlie's Bar and Grill at Wynn tailgate package
+- [Charlie's Bar and Grill](https://www.wynnlasvegas.com/dining/casual-dining/charlies-sports-bar) at Wynn tailgate package
 - Reservation time: 5:00pm under Nick and AJ
 - 13 minute walk from hotel
 - Unlimited food + drink until end of Big 10 Championship Game, $150 per head
