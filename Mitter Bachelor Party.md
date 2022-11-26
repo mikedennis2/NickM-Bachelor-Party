@@ -7,7 +7,7 @@
 
 # Day 2: Friday December 2, 2022
 ### Daytime Plans
-- Golf at The Club at Sunrise 
+- Golf at [The Club at Sunrise](https://www.theclubatsunrise.com/)
     - 5483 Club House Dr, Las Vegas, NV 89142
     - 16 total players
     - Four tee times starting at 10:30am
@@ -41,7 +41,7 @@
 
 # Day 3: Saturday December 3, 2022
 ### Daytime Plans
-- Golf at Aliente Golf Club
+- Golf at [Aliente Golf Club](https://www.aliantegolf.com/)
     - 3100 Elkhorn Rd, North Las Vegas, NV 89084
     - 12 total players
     - Tee times: 10:46am (Under Mike D.), 10:54am (Under Nick M.), 11:02am (Under Alex T.)
