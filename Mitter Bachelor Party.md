@@ -2,6 +2,7 @@
 
 # Day 1: Thursday December 1, 2022
 - Checkin to hotel: Trump International Hotel Las Vegas
+- Address: `2000 Fashion Show Dr, Las Vegas, NV 89109`
 - Travel time from airport: Approximately 10 minutes
 - People arriving at various times, no planned activities
 
