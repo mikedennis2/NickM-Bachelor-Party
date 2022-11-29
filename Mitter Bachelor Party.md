@@ -15,6 +15,11 @@
     - Travel time from hotel: 25 minutes
     - Meet at lobby at 9:15am, ubers/lyfts for transportation
     - Estimate last tee time finishes around 3:30pm
+    - Groupings
+        1. Lennie Morgan, L.C. Morgan, Victor Tolfinski, JR Mitter
+        2. AJ Mitter, Jordan Mitter, John Moretti, Michael Yuhasz
+        3. Mike Dennis, Alex Turkewyzc, Alex Sauchak, Joey Barlett
+        4. Jordan Amine, Bobby Hopman, Ryan Mccleland, Nick Mitter
 
 - Return to strip ~4:00pm
 ### Dinner Plan A
@@ -49,6 +54,10 @@
     - Travel time from hotel: 25 minutes
     - Meet at lobby at 9:30am, uber/lyfts for transportation
     - Estimate last tee time finishes around 3:30pm
+    - Groupings
+        1. Michael Yuhasz, Mike Dennis, Alex Sauchak, Joey Barlett
+        2. Alex Turkewycz, Bobby Hopman, John Moretti, Ryan Mccleland
+        3. JR Mitter, AJ Mitter, Jordan Mitter, Nick Mitter, Jordan Amine (Spectating)
 
 - Return to strip ~4:00pm
 - Depart hotel for Dinner by 4:45pm
